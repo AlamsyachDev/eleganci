@@ -9,7 +9,6 @@ const About = () => {
       <PageHeader title="About" />
       <AboutComponent />
       <Facts />
-      <Team />
     </>
   );
 };
